@@ -1,17 +1,17 @@
-Hello guys!
+**Hello guys!**  
 
-Repo ini tempat gue simpan hasil eksperimen, project serius, atau sekadar iseng buat ngetes ide.  
-**Pakai kalau mau, paham kalau bisa, ngeluh? Pergi aja.**
+This repo is where I store my experiments, serious projects, or just random ideas to test things out.  
+**Use it if you want, understand it if you can, complain? Just leave.**  
 
-## Fitur
-- **Efisien:** Dibuat dengan otak, bukan dengan niat setengah hati. Kalau bisa cepat, kenapa bikin ribet?  
-- **Tepat Sasaran:** Nggak ada basa-basi berlebihan. Semua baris kode ada tujuannya.  
-- **Logis:** Setiap fungsi punya alasan, beda sama beberapa orang yang cuma bikin kode buat gaya-gayaan.  
+## Features  
+- **Efficient:** Built with brains, not half-hearted effort. If it can be fast, why make it complicated?  
+- **Straight to the Point:** No unnecessary fluff. Every line of code has a purpose.  
+- **Logical:** Every function exists for a reason—unlike some people who write code just to look cool.  
 
-## Cara Pakai
-1. Clone repo ini. Kalau nggak tahu caranya, **Google ada buat alasan.**  
-2. Pelajari logikanya. **Jangan copy-paste kalau nggak ngerti.**  
-3. Jalankan sesuai kebutuhanmu. Kalau nggak berhasil, baca kodenya lagi.  
+## How to Use  
+1. Clone this repo. If you don’t know how, **Google exists for a reason.**  
+2. Understand the logic. **Don’t copy-paste if you don’t get it.**  
+3. Run it as needed. If it doesn’t work, read the code again.  
 
 ```bash
 git clone https://github.com/Khaymat/[repo-name].git
