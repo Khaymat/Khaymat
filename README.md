@@ -9,9 +9,6 @@ Welcome to my repo—a space where I stash my experiments, serious projects, and
 - **Straight to the Point:** No unnecessary fluff—every line of code is there for a reason.
 - **Logical:** Every function has a purpose (unlike those who code just to look cool 😉).
 
-## 🎬 Interactive & Animated Experience
-- **Animated Demos:** Check out the cool GIFs and video demos in the `demos/` folder for a quick preview of how things work.
-- **Live Code Previews:** Visit our demo site [here](#) (if available) to see the magic in action.
 
 ## 🚀 How to Use
 1. **Clone the repo:** If you’re not sure how, remember—**Google is your friend.**
