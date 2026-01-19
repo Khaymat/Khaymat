@@ -29,7 +29,7 @@
 | Feature | Description |
 | :--- | :--- |
 | 🧠 **Efficient** | Built with brainpower, not half-hearted effort. If it can be fast, why make it complicated? |
-| 🎯 **Straight to the Point** | No unnecessary fluff—every line of code is there for a reason. |
+| 🎯 **Straight to the Point** | No unnecessary fluff every line of code is there for a reason. |
 | 📐 **Logical** | Every function has a purpose (unlike those who code just to look cool 😉). |
 
 ## 🚀 How to Use
