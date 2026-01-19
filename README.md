@@ -10,7 +10,7 @@
   ---
 
   <p align="left">
-    Welcome to my repo, a space where I stash my experiments, serious projects, and even some wild ideas just for fun. Feel free to dive in, learn something new, or just browse around. If you're not into it, that's cool too—no hard feelings!
+    Welcome to my repo, a space where I stash my experiments, serious projects, and even some wild ideas just for fun. Feel free to dive in, learn something new, or just browse around. If you're not into it, that's cool too... no hard feelings!
   </p>
 
 </div>
@@ -35,7 +35,7 @@
 ## 🚀 How to Use
 
 1.  **Clone the repo:**
-    If you’re not sure how, remember—**Google is your friend.**
+    If you’re not sure how, remember **Google is your friend.**
     ```bash
     git clone [https://github.com/Khaymat/](https://github.com/Khaymat/)[repo-name].git
     ```
@@ -44,7 +44,7 @@
     Understand the logic behind the code. Don’t just copy-paste bro, play around with it, tweak it, and learn!
 
 3.  **Run & Enjoy:**
-    Fire it up and see the results. If it doesn’t work at first, no worries—dig into the code and try again.
+    Fire it up and see the results. If it doesn’t work at first, no worries.. dig into the code and try again.
 
 <br />
 
