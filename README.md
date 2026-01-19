@@ -37,7 +37,7 @@
 1.  **Clone the repo:**
     If you’re not sure how, remember **Google is your friend.**
     ```bash
-    git clone [https://github.com/Khaymat/](https://github.com/Khaymat/)[repo-name].git
+    git clone https://github.com/Khaymat/[repo-name].git
     ```
 
 2.  **Read & Experiment:**
