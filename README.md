@@ -32,8 +32,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khaymat&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaymat&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats-six-omega-29.vercel.app/api?username=Khaymat&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats-six-omega-29.vercel.app/api/top-langs/?username=Khaymat&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
