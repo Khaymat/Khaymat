@@ -23,7 +23,7 @@
 | Project | Description | Role / Stack |
 |---|---|---|
 | **[Aich](#)** | Desktop AI companion built for seamless logic interaction. | `Go`, `Wails`, `TS` |
-| **[Aksioma Ketidakpastian](#)** | Award-winning fiction novel (Ellunar Publisher). | `Author`, `Plot Logic` |
+| **[Aksioma Ketidakpastian](https://www.ellunar.my.id/2026/05/aksioma-ketidakpastian.html)** | Award-winning fiction novel (Ellunar Publisher). | `Author`, `Plot Logic` |
 | **Operations Research** | Optimization engines and game theory models exploration. | `Python`, `Math` |
 
 ### GitHub Analytics
@@ -36,24 +36,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaymat&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
 
-### Contribution Activity
-<!-- 
-  Catatan: Gambar snake sengaja di-comment agar tidak muncul broken image.
-  Setup GitHub Action dari Platane/snk terlebih dahulu di repositori ini. 
-  Jika sudah berhasil berjalan dan file SVG ter-generate, hapus tag comment ini.
--->
-<!--
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khaymat/Khaymat/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khaymat/Khaymat/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Khaymat/Khaymat/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
--->
+### Interactive Chess
+Play a game of chess with me! Click on a move below to generate a GitHub Issue.
+
+<!-- BEGIN SECTION:Chess -->
+<!-- The chess board and move links will be injected here by the GitHub Action -->
+<!-- END SECTION:Chess -->
 
 ---
 <div align="center">
   <p>Building logic, one axiom at a time.</p>
-  <p><i><a href="https://khay.my.id">khay.my.id</a> | <a href="#">Aksioma Ketidakpastian</a></i></p>
+  <p><i><a href="https://khay.my.id">khay.my.id</a> | <a href="https://www.ellunar.my.id/2026/05/aksioma-ketidakpastian.html">Aksioma Ketidakpastian</a></i></p>
 </div>
