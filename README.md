@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rafi+Khairan!+%F0%9F%91%8B;Applied+Math+%7C+IT+Engineer;SEO+Specialist+%7C+Author" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rafi+Khairan!;Applied+Math+%7C+IT+Engineer;SEO+Specialist+%7C+Author" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -37,7 +37,12 @@
 </div>
 
 ### Contribution Activity
-<!-- NOTE: To make this snake work, setup the 'snk' GitHub Action in your profile repo -->
+<!-- 
+  Catatan: Gambar snake sengaja di-comment agar tidak muncul broken image.
+  Setup GitHub Action dari Platane/snk terlebih dahulu di repositori ini. 
+  Jika sudah berhasil berjalan dan file SVG ter-generate, hapus tag comment ini.
+-->
+<!--
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khaymat/Khaymat/output/github-contribution-grid-snake-dark.svg">
@@ -45,9 +50,10 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Khaymat/Khaymat/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+-->
 
 ---
 <div align="center">
   <p>Building logic, one axiom at a time.</p>
-  <p><i>🌐 <a href="https://khay.my.id">khay.my.id</a> | 📚 <a href="#">Aksioma Ketidakpastian</a></i></p>
+  <p><i><a href="https://khay.my.id">khay.my.id</a> | <a href="#">Aksioma Ketidakpastian</a></i></p>
 </div>
