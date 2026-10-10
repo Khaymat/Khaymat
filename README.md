@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rafi+Khairan!;Applied+Math+%7C+IT+Engineer;SEO+Specialist+%7C+Author" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rafi+Khairan!;Applied+Math+%7C+Quantitative+Eng;Optimization+%7C+AI+Systems;Author+of+Aksioma+Ketidakpastian" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    An INTP translating complex mathematical logic into elegant code. When I'm not building AI companions or diving into optimization algorithms, I write novels exploring the axioms of uncertainty. I code to solve real-world problems—the terminal colors are just an aesthetic bonus.
+    An INTP translating mathematical rigor and uncertainty into high-performance software. My work focuses on high-speed quantitative algorithms, combinatorial optimization, computer vision surveillance, and literary exploration.
   </p>
 </div>
 
@@ -16,15 +16,24 @@
 
 ### Tech Arsenal & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,go,ts,nextjs,tailwind,laravel,gcp,linux" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=py,rust,go,ts,laravel,react,tailwind,pytorch,docker,linux" alt="My Skills" />
 </div>
 
-### Featured Quests
-| Project | Description | Role / Stack |
+---
+
+### Featured Works & Engineering
+
+| Project | Description | Stack / Category |
 |---|---|---|
-| **[Aich](#)** | Desktop AI companion built for seamless logic interaction. | `Go`, `Wails`, `TS` |
-| **[Aksioma Ketidakpastian](https://www.ellunar.my.id/2026/05/aksioma-ketidakpastian.html)** | Award-winning fiction novel (Ellunar Publisher). | `Author`, `Plot Logic` |
-| **Operations Research** | Optimization engines and game theory models exploration. | `Python`, `Math` |
+| **[pyvsmc](https://github.com/Khaymat/pyvsmc)** | Ultra-fast vectorized Smart Money Concepts engine (FVG, BOS/CHOCH, Order Blocks). Available on PyPI (`pip install pyvsmc`). | `Python`, `NumPy`, `Polars`, `Quant` |
+| **[OptiNemesis](https://github.com/Khaymat/OptiNemesis)** | Research framework for validated counterexample discovery in optimization algorithm comparisons. | `Python`, `Metaheuristics`, `Benchmark` |
+| **[RegimePulse](https://github.com/Khaymat/RegimePulse)** | Automated bot tracking IHSG market regimes and LQ45 statistical anomalies with rolling quantile thresholds. | `Python`, `SQLite`, `Telegram Bot`, `Docker` |
+| **[RoomGuard-AI](https://github.com/Khaymat/RoomGuard-AI)** | Real-time edge surveillance and face recognition system with multi-object tracking and instant Telegram dispatch. | `RT-DETR`, `BoT-SORT`, `Computer Vision` |
+| **[digitopup](https://github.com/Khaymat/digitopup)** | Full-stack digital gaming e-commerce platform with automated invoicing and tiered pricing tiers. | `Laravel`, `PHP`, `MySQL`, `Bootstrap` |
+| **[antre-web](https://github.com/Khaymat/antre-web)** | Queue management web dashboard with OTP authentication and real-time counter tracking. | `React`, `TypeScript`, `TailwindCSS` |
+| **[Aksioma Ketidakpastian](https://www.ellunar.my.id/2026/05/aksioma-ketidakpastian.html)** | Award-winning philosophical fiction novel exploring certainty, probability, and human logic. | `Author`, `Literary Fiction` |
+
+---
 
 ### GitHub Analytics
 <div align="center">
