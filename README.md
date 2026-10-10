@@ -28,8 +28,21 @@
 
 <div align="center">
   <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Khaymat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <code>$ curl -s https://khay.my.id/status</code><br><br>
+  <a href="https://khay.my.id">
+    <img src="https://img.shields.io/badge/%3E_web-khay.my.id-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Web" />
+  </a>
+  <a href="https://pypi.org/project/pyvsmc/">
+    <img src="https://img.shields.io/badge/%3E_pip_install-pyvsmc-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Package" />
+  </a>
+  <a href="https://www.ellunar.my.id/2026/05/aksioma-ketidakpastian.html">
+    <img src="https://img.shields.io/badge/%3E_read-Aksioma_Ketidakpastian-23272A?style=for-the-badge&logo=gitbook&logoColor=white" alt="Novel Book" />
+  </a>
+  <a href="https://github.com/Khaymat/catur">
+    <img src="https://img.shields.io/badge/%3E_play-Stockfish_Chess-18181B?style=for-the-badge&logo=lichess&logoColor=white" alt="Play Chess" />
+  </a>
+  <a href="mailto:cbotzhayami@gmail.com">
+    <img src="https://img.shields.io/badge/%3E_contact-cbotzhayami@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
   </a>
 </div>
 
