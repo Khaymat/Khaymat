@@ -1,15 +1,14 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Rafi+Khairan!;Applied+Mathematics+%7C+Quantitative+Engineering;Combinatorial+Optimization+%7C+AI+Systems;Author+of+'Aksioma+Ketidakpastian'" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rafi+Khairan!;Applied+Math+%7C+IT+Engineer;SEO+Specialist+%7C+Author" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Khaymat&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Khaymat&label=Profile%20Views&color=0e75b6&style=flat" alt="Khaymat" />
   </p>
 
   <p>
-    An INTP translating mathematical rigor and uncertainty into deterministic high-performance software.<br>
-    Exploring fast vectorized market algorithms, combinatorial optimization, computer vision surveillance, and literary logic.
+    An INTP translating complex mathematical logic into elegant code. When I'm not building AI companions or diving into optimization algorithms, I write novels exploring the axioms of uncertainty. I code to solve real-world problems—the terminal colors are just an aesthetic bonus.
   </p>
 
   <p>
