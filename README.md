@@ -28,7 +28,7 @@
 | **[pyvsmc](https://github.com/Khaymat/pyvsmc)** | Ultra-fast vectorized Smart Money Concepts engine (FVG, BOS/CHOCH, Order Blocks). Available on PyPI (`pip install pyvsmc`). | `Python`, `NumPy`, `Polars`, `Quant` |
 | **[OptiNemesis](https://github.com/Khaymat/OptiNemesis)** | Research framework for validated counterexample discovery in optimization algorithm comparisons. | `Python`, `Metaheuristics`, `Benchmark` |
 | **[RegimePulse](https://github.com/Khaymat/RegimePulse)** | Automated bot tracking IHSG market regimes and LQ45 statistical anomalies with rolling quantile thresholds. | `Python`, `SQLite`, `Telegram Bot`, `Docker` |
-| **[RoomGuard-AI](https://github.com/Khaymat/RoomGuard-AI)** | Real-time edge surveillance and face recognition system with multi-object tracking and instant Telegram dispatch. | `RT-DETR`, `BoT-SORT`, `Computer Vision` |
+| **RoomGuard-AI** *(Private)* | Real-time edge surveillance and face recognition system with multi-object tracking and instant Telegram dispatch. | `RT-DETR`, `BoT-SORT`, `Computer Vision` |
 | **[digitopup](https://github.com/Khaymat/digitopup)** | Full-stack digital gaming e-commerce platform with automated invoicing and tiered pricing tiers. | `Laravel`, `PHP`, `MySQL`, `Bootstrap` |
 | **[antre-web](https://github.com/Khaymat/antre-web)** | Queue management web dashboard with OTP authentication and real-time counter tracking. | `React`, `TypeScript`, `TailwindCSS` |
 | **[Aksioma Ketidakpastian](https://www.ellunar.my.id/2026/05/aksioma-ketidakpastian.html)** | Award-winning philosophical fiction novel exploring certainty, probability, and human logic. | `Author`, `Literary Fiction` |
