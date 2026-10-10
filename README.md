@@ -15,7 +15,7 @@
     <a href="https://khay.my.id"><img src="https://img.shields.io/badge/Portfolio-khay.my.id-0e75b6?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
     <a href="https://pypi.org/project/pyvsmc/"><img src="https://img.shields.io/pypi/v/pyvsmc?color=3775A9&label=PyPI%20pyvsmc&style=flat-square&logo=pypi&logoColor=white" alt="PyPI"></a>
     <a href="https://www.ellunar.my.id/2026/05/aksioma-ketidakpastian.html"><img src="https://img.shields.io/badge/Book-Aksioma%20Ketidakpastian-black?style=flat-square&logo=gitbook&logoColor=white" alt="Book"></a>
-    <a href="mailto:cbotzhayami@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:rafikhairan120@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 </div>
 
@@ -41,8 +41,8 @@
   <a href="https://github.com/Khaymat/catur">
     <img src="https://img.shields.io/badge/%3E_play-Stockfish_Chess-18181B?style=for-the-badge&logo=lichess&logoColor=white" alt="Play Chess" />
   </a>
-  <a href="mailto:cbotzhayami@gmail.com">
-    <img src="https://img.shields.io/badge/%3E_contact-cbotzhayami@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
+  <a href="mailto:rafikhairan120@gmail.com">
+    <img src="https://img.shields.io/badge/%3E_contact-rafikhairan120@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
   </a>
 </div>
 
