@@ -35,7 +35,7 @@
   <a href="https://pypi.org/project/pyvsmc/">
     <img src="https://img.shields.io/badge/%3E_pip_install-pyvsmc-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Package" />
   </a>
-  <a href="https://www.ellunar.my.id/2026/05/aksioma-ketidakpastian.html">
+  <a href="https://khay.my.id/books/aksioma-ketidakpastian">
     <img src="https://img.shields.io/badge/%3E_read-Aksioma_Ketidakpastian-23272A?style=for-the-badge&logo=gitbook&logoColor=white" alt="Novel Book" />
   </a>
   <a href="https://github.com/Khaymat/catur">
@@ -88,15 +88,15 @@
 
 </details>
 
-<details>
-<summary><b>4. Literary Works & Philosophy of Uncertainty</b></summary>
+<summary><b>4. Literary Works & Mathematical Fiction</b></summary>
 <br>
 
-> *"Ketidakpastian bukanlah kegagalan pemahaman, melainkan fondasi logis dari kemungkinan."*
+> *"Bagi Khayrun, hidup harus terukur rapi layaknya Weighted Sum Model. Sampai ia bertemu Fira, sebuah anomali yang gagal diprediksi oleh Teorema Bayes, mematahkan logika, dan membuktikan bahwa ketidakpastian adalah satu-satunya hal yang mutlak."*
 
-- **Buku:** **[Aksioma Ketidakpastian](https://www.ellunar.my.id/2026/05/aksioma-ketidakpastian.html)**
-- **Penerbit:** Ellunar Publisher
-- **Tema:** Eksplorasi filosofis seputar determinisme, logika probabilitas, dan batas matematis dari persepsi manusia.
+- **Novel:** **[Aksioma Ketidakpastian](https://khay.my.id/books/aksioma-ketidakpastian)**
+- **Genre:** Mathematical Romance / Slice of Life / Fiksi Riset Operasi
+- **Penerbit:** Ellunar Publisher (ISBN: 978-623-385-753-6)
+- **Sinopsis Singkat:** Mengisahkan Khayrun, mahasiswa Matematika kaku yang mencoba memecahkan variabel cinta dan emosi menggunakan Riset Operasi dan Teorema Bayes, hingga ia menyadari bahwa jawaban yang paling benar terkadang tidak memiliki angka.
 
 </details>
 
